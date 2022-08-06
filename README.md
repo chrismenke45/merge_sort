@@ -1,0 +1,1 @@
+This is a merge sort function to practice recursion with ruby
